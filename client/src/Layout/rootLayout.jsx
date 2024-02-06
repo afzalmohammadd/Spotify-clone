@@ -48,7 +48,7 @@ function RootLayout() {
               <ul className="text-black flex flex-row gap-4 items-center">
                 <Link to="support_link_url">
                   <img
-                    className="w-8"
+                    className="w-10"
                     src="/icons/X.png"
                     alt="twitter"
                     class="logo"
@@ -57,7 +57,7 @@ function RootLayout() {
 
                 <Link to="download_link_url">
                   <img
-                    className="w-8"
+                    className="w-10"
                     src="/icons/insta.png"
                     alt=""
                     class="logo"
@@ -66,7 +66,7 @@ function RootLayout() {
 
                 <Link to="signup_link_url">
                   <img
-                    className="w-8"
+                    className="w-10"
                     src="/icons/fb.png"
                     alt="google+"
                     class="logo"
